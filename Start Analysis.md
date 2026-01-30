@@ -9,7 +9,7 @@
 5. decomp_tutorial /
 ```
 
-Set up Node for Fridays 
+##### 2- Set up Node for Fridays 
 ```
 sinteractive --reservation=aneq505 --time=01:00:00 --partition=amilan --nodes=1 --ntasks=2 --qos=normal
 ```
@@ -19,4 +19,12 @@ sinteractive --reservation=aneq505 --time=01:00:00 --partition=amilan --nodes=1 
 ainteractive --time=01:00:00 --partition=amilan --nodes=1 --ntasks=2 --qos=normal
 ```
 
-- always Purge 
+##### 3- always Purge 
+```
+module purge
+
+module load qiime2/2024.10_amplicon
+
+```
+
+##### 4- Make folders
