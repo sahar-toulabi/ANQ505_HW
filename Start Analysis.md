@@ -1,12 +1,11 @@
 ### Fridays 
 
 ##### 1- Working directory
+First, make sure you have redirected the tem files to SCRATCH
+
+
 ```
-1. [/](https://ondemand-rmacc.rc.colorado.edu/pun/sys/dashboard/files/fs//)
-2. [scratch /](https://ondemand-rmacc.rc.colorado.edu/pun/sys/dashboard/files/fs//scratch)
-3. [alpine /](https://ondemand-rmacc.rc.colorado.edu/pun/sys/dashboard/files/fs//scratch/alpine)
-4. [sbagheri@colostate.edu /](https://ondemand-rmacc.rc.colorado.edu/pun/sys/dashboard/files/fs//scratch/alpine/sbagheri@colostate.edu)
-5. decomp_tutorial /
+export TMPDIR=/scratch/alpine/$USER/tmp
 ```
 
 ##### 2- Set up Node for Fridays 
