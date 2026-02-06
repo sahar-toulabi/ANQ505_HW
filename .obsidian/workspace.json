@@ -25,14 +25,13 @@
             "id": "34fd87f254f4b545",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Start Analysis.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Start Analysis"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ],
@@ -199,8 +198,10 @@
   },
   "active": "34fd87f254f4b545",
   "lastOpenFiles": [
-    "Test.md",
+    "Untitled.base",
+    "Untitled.canvas",
     "Start Analysis.md",
+    "Test.md",
     "SetUp codes in ALPINE",
     "04_extra_credit",
     "03_paper_discussion",
