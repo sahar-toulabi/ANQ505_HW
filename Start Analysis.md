@@ -50,3 +50,6 @@ cp /pl/active/courses/2025_summer/CSU_2025/q2_workshop_final/QIIME2/metadata_q2_
 mv metadata_q2_workshop.txt metadata.txt
 
 ```
+
+##### 5.1. To transfer from One-Drive use Globus 
+https://vprservicedesk.freshservice.com/support/solutions/articles/19000108710
