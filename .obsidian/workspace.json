@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Start Analysis"
             }
+          },
+          {
+            "id": "242cb52e9804f5d7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,7 +223,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "6d46b37ebd24b264",
+  "active": "242cb52e9804f5d7",
   "lastOpenFiles": [
     "CR_PM_Data/Data Transfer.md",
     "Start Analysis.md",
